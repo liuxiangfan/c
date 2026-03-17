@@ -15,6 +15,7 @@ void method1()
 {
 	printf("method1\n");
 }
+
 int method2(int num1,int num2)
 {
 	printf("method2\n");
